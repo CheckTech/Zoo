@@ -1,0 +1,6 @@
+; SampleCppZooTest.def : Declares the module parameters for the DLL.
+
+; LIBRARY      "SampleCppZooTest"
+
+EXPORTS
+    ; Explicit exports can go here
