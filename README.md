@@ -1,6 +1,25 @@
 Zoo 5 Developer Samples
 =========================
 
+About Samples
+--------------------
+This repository contains both plug-ins that run in Zoo,
+and Rhino plug-ins that use the Zoo licensing system. For
+more information on the Zoo and Zoo development, see the
+following links:
+
+Zoo - http://www.rhino3d.com/zoo
+Zoo Development - http://wiki.mcneel.com/developer/zoo
+
+About Solutions
+--------------------
+SampleZoo - Contains sample plug-ins that run in Zoo. Here
+you will find both C# and Visual Basic samples.
+
+SampleZooTest - Contains sample plug-ins that run in Rhino
+that use the Zoo licensing systm. Here you will find C++, C#,
+and Visual Basic samples.
+
 Building Samples
 --------------------
 To build the Zoo 5 Developer Samples, you are going to need:
