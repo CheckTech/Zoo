@@ -17,7 +17,7 @@ About Solutions
 you will find both C# and Visual Basic samples.
 
 * SampleZooTest - Contains sample plug-ins that run in Rhino
-that use the Zoo licensing systm. Here you will find C++, C#,
+that use the Zoo licensing system. Here you will find C++, C#,
 and Visual Basic samples.
 
 Building Samples
