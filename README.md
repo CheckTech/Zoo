@@ -1,4 +1,4 @@
-Zoo 5 Developer Samples
+Zoo Developer Samples
 =========================
 
 About Samples
@@ -24,9 +24,9 @@ Building Samples
 --------------------
 To build the Zoo 5 Developer Samples, you are going to need:
 
-* Zoo 5 - (http://www.rhino3d.com/zoo)
-* Rhino 5  - (http://www.rhino3d.com)
-* Rhino 5 C++ SDK - (http://wiki.mcneel.com/developer/cplusplusplugins)
+* Zoo - (http://www.rhino3d.com/zoo)
+* Rhino  - (http://www.rhino3d.com)
+* Rhino C++ SDK - (http://wiki.mcneel.com/developer/cplusplusplugins)
 * Microsoft Visual C++ 2010 (for Rhino 5.0 64-bit)
 * Microsoft Visual C++ 2005 (for Rhino 5.0 32-bit)
 * Microsoft Visual C# 2010
@@ -34,7 +34,7 @@ To build the Zoo 5 Developer Samples, you are going to need:
 
 Legal Stuff
 -----------
-Copyright © 2015 Robert McNeel & Associates. All Rights Reserved.
+Copyright Â© 2015 Robert McNeel & Associates. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
